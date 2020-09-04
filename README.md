@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🎓 I just graduated Bachelor's and Master's degree in Computer Science from Boston University
+- 🔨 I am working (if time allowed) on [FinC](https://github.com/phuminw/FinC), both web app and iOS version
+- [More info about me](https://phuminw.github.io)
+
 <!--
 **phuminw/phuminw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
